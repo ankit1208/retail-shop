@@ -59,7 +59,7 @@ p{
 .col-2 img{
     max-width: 100%;
     padding: 50px 0;
-    height: 80vh;
+    height: 90vh;
 }
 
 .col-2 h1{
@@ -86,3 +86,22 @@ p{
     background:linear-gradient(#fff,#ffd6d6);
 }
 
+.categories{
+    margin:70px 0;
+}
+
+.col-3{
+    flex-basis:30%;
+    min-width: 250px;
+    margin-bottom: 30px;
+}
+.col-3 img{
+    width: 100%;
+}
+
+.small-conatiner{
+    max-width: 1080px;
+    margin: auto;
+    padding: 0px 25px 0px 25px;
+
+}
